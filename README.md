@@ -1,2 +1,1 @@
-# projects
-My projects 
+Clone of a website 
